@@ -19,12 +19,12 @@ La aplicación permite seleccionar un intervalo de fechas y, a continuación, de
 - Python 3.6 o superior
 - Se requieren los siguientes paquetes de Python
   - `requests`
-  - `pandas
-  - `tkinter
-  - `ttkthemes
-  - `tkcalendar
-  - `tqdm
-  - Babel
+  - `pandas`
+  - `tkinter`
+  - `ttkthemes`
+  - `tkcalendar`
+  - `tqdm`
+  - `babel`
 
 Puede instalar los paquetes necesarios con pip:
 
