@@ -1,0 +1,8 @@
+python
+requests
+pandas
+tkinter
+ttkthemes
+tkcalendar
+tqdm
+babel
