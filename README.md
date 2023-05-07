@@ -6,6 +6,10 @@ preciosLUZp es una aplicación basada en Python con una interfaz gráfica de usu
 
 La aplicación permite seleccionar un intervalo de fechas y, a continuación, descarga los archivos pertinentes que contienen los precios marginales de la electricidad en el mercado ibérico. Procesa los datos y proporciona los resultados en un formato fácil de usar.
 
+## Notas importantes
+
+El apartado de precios medios con costes, contempla los cargos, márgenes y peajes de la factura de [Octopus Energy ES](https://octopusenergy.es/).
+
 ## Características
 
 - Selección de un intervalo de fechas personalizado para la descarga de datos
@@ -56,6 +60,10 @@ Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/lic
 preciosLUZp is a Python-based application with a graphical user interface (GUI) that allows you to download and process data from the [Operador del Mercado Ibérico de Energía](https://www.omie.es/es/market-results/daily/daily-market/daily-hourly-price) (OMIE) website.
 
 The application allows you to select a date range and then downloads the relevant files containing the marginal prices of electricity in the Iberian market. It processes the data and provides the results in a user-friendly format.
+
+## Important note
+
+- The average price with extra costs, takes into account the values from [Octopus Energy ES](https://octopusenergy.es/).
 
 ## Features
 
